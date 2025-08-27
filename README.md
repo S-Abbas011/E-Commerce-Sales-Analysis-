@@ -1,5 +1,6 @@
 # E-Commerce Sales Analysis using Python
 
+[E-commerce logo]()
 
 ## Objective 
 The primary objective of this project is to conduct a comparative analysis of sales performance across an e-commerce company's online and offline channels, leveraging Python. This will encompass the extraction of actionable insights from sales data, the execution of Exploratory Data Analysis (EDA), and the visualization of findings using contemporary Python libraries.
